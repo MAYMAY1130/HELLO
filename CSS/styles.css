@@ -1,0 +1,91 @@
+.container1{
+ width: auto;
+ height: 700px;
+ text-align: center;
+
+font-family:'Devonshire', cursive;}
+body{
+  background-color: #c8e8ed;
+}
+
+h3{
+  color: #3161a3;
+  font-size: 30px;
+}
+p{
+  color: #f05a28;
+}
+.skill{
+  margin: auto;
+}
+.EDUCATION{
+  margin: auto;
+}
+.LANGUAGE{
+  text-align: left;
+  margin-left: 24rem;
+}
+.PE{
+text-align: left;
+margin-left: 10rem;
+margin-right: 10rem;
+}
+.job{
+  margin-left: 12rem;
+  margin-right: 10rem;
+}
+
+h5{
+text-align: center;
+  font-size: 18px;
+  color: #5c4d4d;
+}
+h1{color:#fe9191;
+padding-top: 10rem;
+font-family: 'Sacramento', cursive;
+font-size: 60px;
+ }
+h2{color:#fe9191;
+font-weight: normal;
+line-height: 2 ;
+font-family: 'Hind', sans-serif;
+font-size: 40px;}
+h4{
+  text-align: center;
+  color: #13abc4;
+  font-size: 24px;
+}
+
+
+.job{
+  table-layout:fixed;
+   width:1000px;
+}
+.EDUCATION{
+  table-layout: fixed;
+  width:1200px;
+  margin-left: 8rem;
+}
+.butn{
+  text-align: center;
+  margin:50px auto;
+
+  width:120px;}
+  a{text-decoration: none;}
+
+.butn {
+  -webkit-border-radius: 36;
+  -moz-border-radius: 36;
+  border-radius: 36px;
+  font-family: Arial;
+  color: #471b13;
+  font-size: 18px;
+  background: #1081cc;
+  padding: 8px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #63b8ed;
+  text-decoration: none;
+}
